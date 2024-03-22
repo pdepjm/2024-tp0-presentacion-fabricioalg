@@ -17,8 +17,6 @@ Ingresé en la facultad en el 2021 y actualmente estoy cursando materias de segu
 
 Me gustan los gatos. Tengo una gata que se llama kitty que es muy bonita y cariñosa. Le gusta dormir y comer, no hace otra cosa mas que eso.
 
-![fotogato](/foto2.jpg)
-
 ***
 
 ### Mi relación con Paradigmas
@@ -31,3 +29,9 @@ En cuanto a los lenguajes en mi opinion:
 * Wollok: 7/10.
 
 Por otro lado la materia es muy util, tiene conceptos que pueden ayudar en el area laboral y está muy entretenida en la práctica.
+
+***
+
+### Esta es Kitty
+
+![fotogato](/foto2.jpg)

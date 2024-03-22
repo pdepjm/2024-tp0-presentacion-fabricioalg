@@ -10,8 +10,11 @@
 
 ### Me presento
 Me llamo Fabricio, tengo 22 años y soy de Parque Chacabuco. Hincha fanatico de San Lorenzo de Almagro desde que tengo consciencia. Me gusta la pizza con morrones y las milanesas con papas. Helado super dulce de leche siempre y quiza alguna crema rusa y/o americana. Me gusta el rock, los beatles, soda stereo y hace poco empecé a escuchar pearl jam. Aunque lo que mas escucho ahora son soundtracks de juegos.
+
 No juego al lol, pero me pasé todos los juegos de super mario (en emulador), estoy pasando el Final Fantasy VII (en emulador) y por el momento me entretengo con juegos de peleas (tambien en emulador). En la pandemia empecé a leer mangas y me gusta dragon ball, jojos y one punch man. La mejor serie que vi en mi vida es The Office. 
+
 Ingresé en la facultad en el 2021 y actualmente estoy cursando materias de segundo y tercero. No trabajo y por el momento no estoy buscando, pero puede que a futuro esté en la busqueda. 
+
 Me gustan los gatos. Tengo una gata que se llama kitty que es muy bonita y cariñosa. Le gusta dormir y comer, no hace otra cosa mas que eso.
 
 ![fotogato](/foto2.jpg)
